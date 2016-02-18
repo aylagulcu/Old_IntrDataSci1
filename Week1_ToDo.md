@@ -1,4 +1,4 @@
-## Week 1
+## Week 1 Homework:
 ### 1. Install Anaconda Python 3.5:
 * https://www.continuum.io/downloads
 * http://conda.pydata.org/docs/test-drive.html
