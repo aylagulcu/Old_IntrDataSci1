@@ -9,3 +9,5 @@ Mapping Global Earthquake Activity: http://introtopython.org/visualization_earth
 
 https://www.dataquest.io/blog/python-data-visualization-libraries/
 
+https://github.com/ahmetalpbalkan/personal-dashboard
+
