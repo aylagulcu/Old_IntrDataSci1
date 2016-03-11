@@ -9,17 +9,8 @@ Are there any other easier ways of reaching that API in Python? (Use twython for
 By using twython package, can you show us how to filter data according to a given criteria.
 (location, language, day time, context...)
 
-https://www.continuum.io/downloads
-http://conda.pydata.org/docs/test-drive.html
-
-
-
-
-
-
-
-
-Some Sources of Datasets that you could use for your midterm and/or finalproject: 
+2. Familiarize yourself with the following python packages: numpy, scipy and pandas (data frame object)
+3. Some Sources of Datasets that you could use for your midterm and/or finalproject: 
 (Details about the midterm project will be provided soon)
 
 * http://www.gapminder.org/
