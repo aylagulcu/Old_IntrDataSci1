@@ -23,6 +23,5 @@ By using twython package, can you show us how to filter data according to a give
 * Python "pandas" package and data frame object.__AG__
   * http://www.datacarpentry.org/python-ecology-lesson/01-starting-with-data
   * http://pandas.pydata.org/
-  * read from csv files
-  * present statistics about the data
+  * http://pandas.pydata.org/pandas-docs/stable/tutorials.html
 
