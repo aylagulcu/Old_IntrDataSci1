@@ -22,6 +22,8 @@ By using twython package, can you show us how to filter data according to a give
 
 * Python "pandas" package and data frame object.__AG__
   * http://www.datacarpentry.org/python-ecology-lesson/01-starting-with-data
-  * http://pandas.pydata.org/
+  * http://pandas.pydata.org/  (class pandas.DataFrame(data=None, index=None, columns=None, dtype=None, copy=False)
+  Two-dimensional size-mutable, potentially heterogeneous tabular data structure with labeled axes (rows and columns).    
+  Arithmetic operations align on both row and column labels. Can be thought of as a dict-like container for Series objects.   The primary pandas data structure)
   * http://pandas.pydata.org/pandas-docs/stable/tutorials.html
 
