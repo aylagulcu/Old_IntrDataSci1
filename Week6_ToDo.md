@@ -7,6 +7,7 @@ Week 6:
 2. A.G.: 
     * Python "pandas" package and data frame object.              
     * http://www.datacarpentry.org/python-ecology-lesson/01-starting-with-data
+    * http://pandas.pydata.org/
     * read from csv files
     * present statistics about the data
     
