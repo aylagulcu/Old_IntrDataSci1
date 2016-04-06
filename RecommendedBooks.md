@@ -5,4 +5,11 @@
   https://github.com/jvns/pandas-cookbook
 
 3. __Statistics__
+  OpenIntro Statistics 3rd Edition
+  David M Diez, Christopher D Barr, Mine Cetinkaya-Rundel
   https://www.openintro.org/stat/textbook.php
+
+4. __Data Mining__
+  Mining of Massive Datasets
+  Jure Leskovec, Anand Rajaraman, Jeff Ullman  
+  http://www.mmds.org/
