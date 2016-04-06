@@ -3,5 +3,6 @@
   
 2. __Pandas__
   https://github.com/jvns/pandas-cookbook
+
 3. __Statistics__
   https://www.openintro.org/stat/textbook.php
