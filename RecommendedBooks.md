@@ -13,3 +13,16 @@
   Mining of Massive Datasets
   Jure Leskovec, Anand Rajaraman, Jeff Ullman  
   http://www.mmds.org/
+
+5. __Machine Learning__
+  Learning From Data 
+  Yaser S. Abu-Mostafa  (Author), Malik Magdon-Ismail  (Author), Hsuan-Tien Lin  (Author)
+  https://work.caltech.edu/telecourse.html
+
+  A Course in Machine Learning
+  Hal Daumé III
+  
+  Building Machine Learning Systems with Python
+  Willi Richert, Luis Pedro Coelho
+  
+
