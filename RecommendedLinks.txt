@@ -1,3 +1,8 @@
+Python Data Analysis Library:
+http://pandas.pydata.org/
+
 Python seaborn graphical package:
 https://github.com/mwaskom
 
+Machine Learning in Python:
+http://scikit-learn.org/stable/
